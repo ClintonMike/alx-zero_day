@@ -1,2 +1,2 @@
-Up dated README
+Updated README
 My second comitt
